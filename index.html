@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/>
+  <meta name="theme-color" content="#5a67d8"/>
+  <title>Pronunciation 500</title>
+  <link rel="manifest" href="manifest.webmanifest"/>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+<div class="app">
+  <header>
+    <div>
+      <div class="brand">Pronunciation 500</div>
+      <div class="tag">Personal speaking practice</div>
+    </div>
+    <div class="pill" id="stars">⭐ 0</div>
+  </header>
+
+  <div class="progress-wrap"><div class="progress" id="progress"></div></div>
+  <div class="stats"><span id="progressText">0/50 complete</span><span id="streak">🔥 1 day streak</span></div>
+
+  <div class="tabs">
+    <button class="tab active" data-tab="practice">Practice</button>
+    <button class="tab" data-tab="recordings">My recordings</button>
+  </div>
+
+  <section id="practice" class="panel active">
+    <div class="card">
+      <div class="kicker">
+        <span id="phraseNo">Phrase 1 of 50</span>
+        <span class="benchmark" id="benchmark">★ Checkpoint</span>
+      </div>
+      <div class="phrase" id="phraseText"></div>
+
+      <div class="controls">
+        <button id="speakBtn">▶ Listen</button>
+        <button class="record" id="recordBtn">🎙 Record</button>
+        <button id="downloadBtn" disabled>⬇ Download recording</button>
+        <button class="primary" id="doneBtn">✓ Mark complete</button>
+      </div>
+
+      <audio id="player" controls style="display:none"></audio>
+
+      <div class="nav">
+        <button class="secondary" id="prevBtn">← Previous</button>
+        <button class="secondary" id="nextBtn">Next →</button>
+      </div>
+    </div>
+    <p class="privacy">🔒 Recordings stay in this browser on this device until you download or delete them.</p>
+  </section>
+
+  <section id="recordings" class="panel">
+    <div class="notice">
+      These files are stored locally. Use <strong>Download</strong> to save any recording to the device, then upload it to ChatGPT for feedback.
+    </div>
+    <div style="height:10px"></div>
+    <div class="list" id="recordingList"></div>
+  </section>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

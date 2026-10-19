@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "text": "The little fish is swimming near the green leaves.",
+    "benchmark": true
+  },
+  {
+    "id": 2,
+    "text": "Tim keeps his keys inside his blue backpack.",
+    "benchmark": false
+  },
+  {
+    "id": 3,
+    "text": "I really like this big green tree.",
+    "benchmark": false
+  },
+  {
+    "id": 4,
+    "text": "The black cat sat beside the small red bag.",
+    "benchmark": true
+  },
+  {
+    "id": 5,
+    "text": "Jack has a funny hat and a black jacket.",
+    "benchmark": false
+  },
+  {
+    "id": 6,
+    "text": "My brother loves jumping over the big puddles.",
+    "benchmark": false
+  },
+  {
+    "id": 7,
+    "text": "Luke took a good book to school.",
+    "benchmark": true
+  },
+  {
+    "id": 8,
+    "text": "The cook put two cookies on the wooden table.",
+    "benchmark": false
+  },
+  {
+    "id": 9,
+    "text": "Ben left his red pen next to the bed.",
+    "benchmark": false
+  },
+  {
+    "id": 10,
+    "text": "Dad bought a small cup of hot chocolate.",
+    "benchmark": false
+  },
+  {
+    "id": 11,
+    "text": "Victor visits his very funny friends every Friday.",
+    "benchmark": false
+  },
+  {
+    "id": 12,
+    "text": "Three thin thieves ran through the thick forest.",
+    "benchmark": true
+  },
+  {
+    "id": 13,
+    "text": "This weather is better than the weather yesterday.",
+    "benchmark": false
+  },
+  {
+    "id": 14,
+    "text": "Zoe sees six zebras sleeping at the zoo.",
+    "benchmark": false
+  },
+  {
+    "id": 15,
+    "text": "She washed her shiny shoes before school.",
+    "benchmark": false
+  },
+  {
+    "id": 16,
+    "text": "Charlie chose a large chocolate cake for lunch.",
+    "benchmark": true
+  },
+  {
+    "id": 17,
+    "text": "Jerry jumped gently over the giant green box.",
+    "benchmark": false
+  },
+  {
+    "id": 18,
+    "text": "Ryan really likes riding his red bicycle.",
+    "benchmark": false
+  },
+  {
+    "id": 19,
+    "text": "Very brave birds flew above the village.",
+    "benchmark": false
+  },
+  {
+    "id": 20,
+    "text": "Those three brothers live together near the river.",
+    "benchmark": true
+  },
+  {
+    "id": 21,
+    "text": "Max helped his friends clean the classroom.",
+    "benchmark": false
+  },
+  {
+    "id": 22,
+    "text": "Sam walked past three small shops.",
+    "benchmark": false
+  },
+  {
+    "id": 23,
+    "text": "My best friend asked me a strange question.",
+    "benchmark": true
+  },
+  {
+    "id": 24,
+    "text": "Jack dropped his books beside the desk.",
+    "benchmark": false
+  },
+  {
+    "id": 25,
+    "text": "Six small dogs jumped across the grass.",
+    "benchmark": false
+  },
+  {
+    "id": 26,
+    "text": "Tom washed his hands and brushed his teeth.",
+    "benchmark": false
+  },
+  {
+    "id": 27,
+    "text": "The first bus stopped next to the school.",
+    "benchmark": false
+  },
+  {
+    "id": 28,
+    "text": "We watched the birds fly across the dark sky.",
+    "benchmark": false
+  },
+  {
+    "id": 29,
+    "text": "Chris likes cold drinks after sports practice.",
+    "benchmark": false
+  },
+  {
+    "id": 30,
+    "text": "The young fox jumped past the old rocks.",
+    "benchmark": false
+  },
+  {
+    "id": 31,
+    "text": "Steve quickly stepped across the busy street.",
+    "benchmark": false
+  },
+  {
+    "id": 32,
+    "text": "Fred brought three fresh drinks for his friends.",
+    "benchmark": true
+  },
+  {
+    "id": 33,
+    "text": "Grace grabbed the green grapes from the fridge.",
+    "benchmark": false
+  },
+  {
+    "id": 34,
+    "text": "Brad broke the blue plate by mistake.",
+    "benchmark": false
+  },
+  {
+    "id": 35,
+    "text": "Claire climbed quickly through the small window.",
+    "benchmark": false
+  },
+  {
+    "id": 36,
+    "text": "Frank found four frogs beside the frozen pond.",
+    "benchmark": false
+  },
+  {
+    "id": 37,
+    "text": "The strong brown horse crossed the narrow bridge.",
+    "benchmark": false
+  },
+  {
+    "id": 38,
+    "text": "Greg threw the bright green ball across the playground.",
+    "benchmark": false
+  },
+  {
+    "id": 39,
+    "text": "Brian brought breakfast before his brother woke up.",
+    "benchmark": false
+  },
+  {
+    "id": 40,
+    "text": "The small squirrel quickly climbed the tall tree.",
+    "benchmark": false
+  },
+  {
+    "id": 41,
+    "text": "I thought you were coming with us this afternoon.",
+    "benchmark": false
+  },
+  {
+    "id": 42,
+    "text": "My brother always forgets where he leaves his shoes.",
+    "benchmark": false
+  },
+  {
+    "id": 43,
+    "text": "We really wanted to watch the movie together tonight.",
+    "benchmark": true
+  },
+  {
+    "id": 44,
+    "text": "Can you bring my backpack when you come downstairs?",
+    "benchmark": false
+  },
+  {
+    "id": 45,
+    "text": "I left my water bottle somewhere in the kitchen.",
+    "benchmark": false
+  },
+  {
+    "id": 46,
+    "text": "We should probably finish this before everyone gets home.",
+    "benchmark": false
+  },
+  {
+    "id": 47,
+    "text": "My friends are waiting for me outside the school.",
+    "benchmark": false
+  },
+  {
+    "id": 48,
+    "text": "I don't know why everybody started laughing so loudly.",
+    "benchmark": false
+  },
+  {
+    "id": 49,
+    "text": "Could you please put those books back on the shelf?",
+    "benchmark": false
+  },
+  {
+    "id": 50,
+    "text": "Yesterday we played outside until it started getting dark.",
+    "benchmark": true
+  }
+]
